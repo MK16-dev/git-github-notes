@@ -1,6 +1,6 @@
 # What is Git?
 
-> **Level:** Beginner
+
 
 ---
 
