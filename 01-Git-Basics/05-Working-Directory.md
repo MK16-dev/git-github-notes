@@ -1,6 +1,6 @@
 # Working Directory
 
-> **Level:** Beginner
+
 
 ---
 
